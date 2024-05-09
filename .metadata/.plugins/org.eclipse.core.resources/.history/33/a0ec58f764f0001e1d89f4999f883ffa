@@ -1,0 +1,16 @@
+package com.priya.newSpringLearn;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Car c = new Car();
+        c.drive();
+        
+        Vehicle obj = (obj)getBean("vehicle");
+    }
+}
